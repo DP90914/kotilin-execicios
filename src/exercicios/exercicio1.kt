@@ -1,3 +1,5 @@
+package exercicios
+
 fun main() {
     val numero: Int = 997
     if (numero % 2 == 0) {

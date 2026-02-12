@@ -1,3 +1,5 @@
+package exercicios
+
 fun main(){
     val idade:Int = 12
     if(idade<0){

@@ -1,3 +1,5 @@
+package exercicios
+
 fun main(){
     calcularMedia(11.00, 10.00,10.00)
 }

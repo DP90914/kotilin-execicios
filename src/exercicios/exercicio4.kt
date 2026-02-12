@@ -1,3 +1,5 @@
+package exercicios
+
 fun main() {
     val multiplicando: Int = 2
     val tabuada = 1..10

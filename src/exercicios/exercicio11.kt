@@ -1,3 +1,5 @@
+package exercicios
+
 fun main(){
     calcularFahrenheit(25.00)
 }
