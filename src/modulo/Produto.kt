@@ -1,5 +1,5 @@
 package modulo
 
-class Produto(var nome:String, var valor:Int) {
+class Produto(var nome:String = "", var valor:Int = 0) {
 
 }

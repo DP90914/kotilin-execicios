@@ -4,10 +4,10 @@ import modulo.Produto
 
 fun main() {
     var produrosPrecos = listOf(
-        Produto(nome = "ps5", valor = 3_500),
-        Produto(nome = "ps6", valor = 9_500),
-        Produto(nome = "ps7", valor = 18_500),
-        Produto(nome = "ps8", valor = 27_500),
+        Produto( "ps5",  3_500),
+        Produto( "ps6",  9_500),
+        Produto( "ps7",  18_500),
+        Produto( "ps8",  27_500),
     )
     var maiorProduto = 0
     var nomeMaior = ""
